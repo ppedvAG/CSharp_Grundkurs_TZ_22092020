@@ -6,7 +6,7 @@
 - [X] Begrüßung
 - [X] Visual Studio [Link](https://visualstudio.microsoft.com/de/)
 - [X] Visual Studio Einrichtung
-<!-- - [x] [vs-shortcuts](VS-SHORTCUTS.md) -->
+- [x] VS-Shortcuts [Link](VS-SHORTCUTS.md)
 
 
 ## M001 | .NET GRUNDLAGEN
